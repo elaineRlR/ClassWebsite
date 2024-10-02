@@ -1,0 +1,91 @@
+body{
+    background-color:rgb(191, 229, 212);
+}
+h1 {
+    text-align:center
+       
+                                                   
+}
+.green {
+    font-family: 'Dust Mites', sans-serif;
+    color:rgb(73 179 133);
+    font-size: 80px;
+    font-weight: 300;
+    background-color:rgb(96 128 170);
+    position: sticky;
+    top: 0;
+    padding: 10px 16px;
+
+}
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border: 7.5px solid rgb(96 128 170);
+    }
+.blue {
+    color:rgb(96 128 170);
+    font-size: larger;
+    font-weight: 300;
+    text-align: center;
+    font-size: 52px;
+    font-family: 'Dust Mites', sans-serif;
+    border-bottom: solid rgb(96 128 170);
+}
+table{
+    width: 100%;
+    font-family: sans-serif;
+    color: rgb(35 56 87);
+    background-color: rgb(145, 167, 196);
+
+    
+}
+th{
+    text-align:left;
+    font-family: "Noto Sans Mono", monospace;
+    font-size: 28px;
+    font-weight: 700;
+    border: rgb(35 56 87), dotted, 5px;
+}
+.name{
+    font-size: 18px;
+    font-weight: 750;
+    font-family: "Noto Sans Mono", monospace;
+}
+
+ 
+.choices {
+    color:#00c0ff;
+    font-family: "Noto Sans Mono", monospace;
+}
+.button{
+    text-align: center;
+    background-color: rgb(73 179 133);
+    padding: 4px 10px;
+    font-size: 18px;
+    color: black;
+    font-weight: 800;
+    border-color: #00c0ff;
+    border-radius: 8px;
+    width: 100px;
+}
+.button:hover{
+    color:#00c0ff
+}
+p{
+    text-align: right;
+    font-size: 30px;
+    font-family: sans-serif;
+    padding: 30px 15px;
+    
+}
+    a:link {
+        color:aquamarine;
+       text-decoration: none;
+    }
+         
+    a:hover{
+        color:rgb(73 179 133);
+        text-decoration: underline;
+    }
